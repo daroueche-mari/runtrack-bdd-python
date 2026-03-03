@@ -1,0 +1,1 @@
+"CREATE DATABASE entreprise CHARACTER SET 'utf8';" 

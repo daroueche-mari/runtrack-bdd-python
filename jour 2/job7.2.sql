@@ -1,0 +1,1 @@
+"INSERT INTO employe (nom, prenom, salaire, id_service) VALUES ("MonsieurUn", "HumainUn", 1700, 25), ("MonsieurDeux", "HumainDeux", 1500, 26),("MonsieurTrois", "HumainTrois", 1400, 27)("MonsieurQuatre", "HumainQuatre", 1700, 25 ,("MonsieurCinq", "HumainCinq", 1500, 26);" 
